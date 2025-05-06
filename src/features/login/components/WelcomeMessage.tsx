@@ -1,5 +1,3 @@
 export default function WelcomeMessage() {
-  return (
-    <div>WelcomeMessage</div>
-  )
+  return <div>WelcomeMessage</div>;
 }

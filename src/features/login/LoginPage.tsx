@@ -1,6 +1,6 @@
-import LoginForm from "./components/LogInForm";
-import WelcomeMessage from "./components/WelcomeMessage";
-import WhiteBar from "./components/WhiteBar";
+import LoginForm from './components/LogInForm';
+import WelcomeMessage from './components/WelcomeMessage';
+import WhiteBar from './components/WhiteBar';
 
 export default function LoginPage() {
   return (

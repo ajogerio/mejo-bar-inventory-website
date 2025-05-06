@@ -1,5 +1,3 @@
 export default function WhiteBar() {
-  return (
-    <div>WhiteBar</div>
-  )
+  return <div>WhiteBar</div>;
 }
